@@ -7,6 +7,7 @@ My homework solutions for the [AI Dev Tools Zoomcamp 2025](https://github.com/Da
 | Module | Topic | Description |
 |--------|-------|-------------|
 | [01-todo](01-todo/) | Overview & AI Coding Tools | Django TODO app built with AI assistance |
+| [02-coding-interview](02-coding-interview/) | Vibe Coding | Collaborative coding interview platform (React + Express + WebSockets) |
 | [03-mcp](03-mcp/) | Model Context Protocol (MCP) | MCP server for documentation search (Context7 clone) |
 
 ## Projects
